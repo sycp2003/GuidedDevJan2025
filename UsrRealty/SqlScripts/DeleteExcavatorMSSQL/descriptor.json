@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "e056a140-adda-2a98-b60a-193fc11795bf",
+    "Name": "DeleteExcavatorMSSQL",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1737743248000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

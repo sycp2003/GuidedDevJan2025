@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "830dd9eb-56a0-a499-f161-92f4e3044f05",
     "Name": "UsrCarBodyType",
-    "ModifiedOnUtc": "\/Date(1737650402000)\/",
+    "ModifiedOnUtc": "\/Date(1737739887000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "a8efc317-b0a9-40c8-a1c3-f7db9e710abc",
@@ -10,29 +10,8 @@
     },
     "Columns": [
       {
-        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-        "IsForceUpdate": false,
-        "IsKey": true,
-        "ColumnName": "Id",
-        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
-      },
-      {
-        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "Name",
-        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
-      },
-      {
-        "ColumnUId": "41600c39-2bd4-14a1-35de-46f3964b740c",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "UsrCode",
-        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
-      },
-      {
         "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-        "IsForceUpdate": false,
+        "IsForceUpdate": true,
         "IsKey": false,
         "ColumnName": "Description",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
@@ -43,6 +22,27 @@
         "IsKey": false,
         "ColumnName": "CreatedOn",
         "DataTypeValueUId": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "41600c39-2bd4-14a1-35de-46f3964b740c",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "UsrCode",
+        "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       }
     ]
   }
