@@ -351,13 +351,13 @@
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtUIPlatform">
-			<HintPath>$(RelativePkgFolderPath)/CrtUIPlatform/$(StandalonePackageAssemblyPath)/CrtUIPlatform.dll</HintPath>
+		<Reference Include="CrtUIPlatform7x">
+			<HintPath>$(RelativePkgFolderPath)/CrtUIPlatform7x/$(StandalonePackageAssemblyPath)/CrtUIPlatform7x.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
-		<Reference Include="CrtUIPlatform7x">
-			<HintPath>$(RelativePkgFolderPath)/CrtUIPlatform7x/$(StandalonePackageAssemblyPath)/CrtUIPlatform7x.dll</HintPath>
+		<Reference Include="CrtUIPlatform">
+			<HintPath>$(RelativePkgFolderPath)/CrtUIPlatform/$(StandalonePackageAssemblyPath)/CrtUIPlatform.dll</HintPath>
 			<SpecificVersion>False</SpecificVersion>
 			<Private>False</Private>
 		</Reference>
